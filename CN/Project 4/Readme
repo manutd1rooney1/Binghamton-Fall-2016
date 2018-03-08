@@ -1,0 +1,7 @@
+Vaibhav Acharya, Dhruv Potdar
+
+USAGE
+1. make 
+2. ./nodeServer <nodeID>. Run n number of instances of nodeID's in n terminals
+3. ./ctClient <commmand> <sourceID> <destinationID>\
+4. make clean
